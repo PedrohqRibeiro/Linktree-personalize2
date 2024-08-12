@@ -9,10 +9,10 @@ const Linktree = () => {
       backgroundSize: 'contain', // Ajuste para 'cover', 'contain' ou valores específicos
       backgroundRepeat: 'no-repeat',
       backgroundPosition: 'center',
-      backgroundAttachment: 'fixed', }} // Substitua pelo caminho da sua imagem
+      backgroundAttachment: 'static', }} // Substitua pelo caminho da sua imagem
     >
       <a 
-        href="https://wa.me/991380322" 
+        href="https://wa.me/5548991380322" 
         className="flex items-center justify-center px-8 py-4 text-white text-lg font-medium bg-black rounded-full shadow-lg transition duration-300 ease-in-out hover:bg-gray-800"
       >
         <FaWhatsapp className="mr-2 text-2xl" />
