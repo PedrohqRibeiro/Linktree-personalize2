@@ -1,10 +1,10 @@
 import React from 'react';
 import { FaWhatsapp } from 'react-icons/fa'; // Importando o ícone do WhatsApp
-import backgroundImage from './assets/background.jpg';
+import backgroundImage from './assets/background2.png';
 const Linktree = () => {
   return (
     <div 
-      className="flex items-center justify-center h-screen bg-cover bg-center" 
+      className="flex items-center justify-center h-screen  bg-cover bg-center" 
       style={{ backgroundImage: `url(${backgroundImage})`,
       backgroundSize: 'contain', // Ajuste para 'cover', 'contain' ou valores específicos
       backgroundRepeat: 'no-repeat',
